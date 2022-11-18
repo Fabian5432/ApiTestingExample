@@ -1,4 +1,4 @@
-package org.openExchangeRates.api.example.pojo;
+package com.openExchangeRates.api.pojo;
 
 public class Rate {
     private String rateName;

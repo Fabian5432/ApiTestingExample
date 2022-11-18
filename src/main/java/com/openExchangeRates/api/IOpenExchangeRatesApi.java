@@ -1,4 +1,4 @@
-package org.openExchangeRates.api.example;
+package com.openExchangeRates.api;
 
 import okhttp3.ResponseBody;
 import retrofit2.Call;

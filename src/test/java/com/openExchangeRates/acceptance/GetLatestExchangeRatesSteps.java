@@ -3,8 +3,8 @@ package com.openExchangeRates.acceptance;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.openExchangeRates.api.example.OpenExchangeRatesService;
-import org.openExchangeRates.api.example.pojo.ExchangeRate;
+import com.openExchangeRates.api.OpenExchangeRatesService;
+import com.openExchangeRates.api.pojo.ExchangeRate;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,6 +1,6 @@
-package org.openExchangeRates.api.example;
+package com.openExchangeRates.api;
 
-import org.openExchangeRates.api.example.pojo.ExchangeRate;
+import com.openExchangeRates.api.pojo.ExchangeRate;
 
 public interface IOpenExchangeRatesService {
     ExchangeRate getAllRatesForSpecificCurrencySymbols(String currencySymbols);

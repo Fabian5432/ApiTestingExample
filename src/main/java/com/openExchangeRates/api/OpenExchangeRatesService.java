@@ -1,9 +1,9 @@
-package org.openExchangeRates.api.example;
+package com.openExchangeRates.api;
 
 import okhttp3.ResponseBody;
 import org.json.JSONObject;
-import org.openExchangeRates.api.example.pojo.ExchangeRate;
-import org.openExchangeRates.api.example.pojo.Rate;
+import com.openExchangeRates.api.pojo.ExchangeRate;
+import com.openExchangeRates.api.pojo.Rate;
 import retrofit2.Call;
 import retrofit2.Retrofit;
 
